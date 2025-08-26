@@ -1,0 +1,32 @@
+/* custom.css */
+
+.highlighted-text-span {
+  border: 1px solid rgba(0, 191, 255, 0.7); /* 蓝色边框，略带透明 */
+  border-radius: 8px; /* 圆角 */
+  padding: 5px 10px; /* 内边距 */
+  background-color: rgba(0, 191, 255, 0.1); /* 半透明蓝色背景 */
+  color: #333; /* 文本颜色 */
+  box-shadow: 0 0 10px rgba(0, 191, 255, 0.5); /* 蓝色光晕 */
+  display: inline-block; /* 允许设置padding和margin，并保持行内特性 */
+}
+
+.attention-block {
+  border: 2px solid rgba(124, 252, 0, 0.8); /* 绿黄色边框，略带透明 */
+  border-radius: 15px; /* 更大的圆角 */
+  padding: 20px; /* 较大的内边距 */
+  margin: 15px 0; /* 上下外边距，与其他内容区分 */
+  background-color: rgba(124, 252, 0, 0.08); /* 半透明绿黄色背景 */
+  color: #2F4F4F; /* 深色文本 */
+  box-shadow: 0 0 20px rgba(124, 252, 0, 0.7); /* 绿黄色光晕 */
+}
+
+/* 您还可以定义其他样式，例如警告框、提示等 */
+.warning-box {
+  border: 1px solid rgba(255, 99, 71, 0.7);
+  border-radius: 5px;
+  padding: 10px 15px;
+  background-color: rgba(255, 99, 71, 0.1);
+  color: #CD5C5C;
+  box-shadow: 0 0 8px rgba(255, 99, 71, 0.4);
+  margin-y: 10px;
+}

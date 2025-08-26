@@ -1,17 +1,116 @@
-## Hi there 👋
+<style>
 
-<!--
-**Atom112/Atom112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.highlighted{
+    border: 1px solid var(--color);
+    background-color: var(--bkgcolor);
+    box-shadow: 0 0 10px var(--bxcolor);
+    border-radius: 15px; /* 圆角 */
+    padding: 5px 10px; /* 内边距 */
+    margin: 10px 0 15px; /* 上下外边距 */
+}
+.highlighted-blue {
+  --color: rgba(0, 247, 255, 0.7); /* 蓝色边框，略带透明 */
+  --bkgcolor: rgba(0, 247, 255, 0.1); /* 半透明蓝色背景 */
+  --bxcolor: rgba(0, 247, 255, 0.5); /* 蓝色光晕 */
+}
+.highlighted-pink {
+  --color: rgba(255, 105, 180, 0.7); /* 粉色边框，略带透明 */
+  --bkgcolor: rgba(255, 105, 180, 0.1); /* 半透明粉色背景 */
+  --bxcolor: rgba(255, 105, 180, 0.5); /* 粉色光晕 */
+}
+.highlighted-green {
+  --color: rgba(0, 255, 0, 0.7); /* 绿色边框，略带透明 */
+  --bkgcolor: rgba(0, 255, 0, 0.1); /* 半透明绿色背景 */
+  --bxcolor: rgba(0, 255, 0, 0.5); /* 绿色光晕 */
+}
+.highlighted-purple {
+  --color: rgba(128, 0, 128, 0.7); /* 紫色边框，略带透明 */
+  --bkgcolor: rgba(128, 0, 128, 0.1); /* 半透明紫色背景 */
+  --bxcolor: rgba(128, 0, 128, 0.5); /* 紫色光晕 */
+}
+.highlighted-orange {
+  --color: rgba(255, 165, 0, 0.7); /* 橙色边框，略带透明 */
+  --bkgcolor: rgba(255, 165, 0, 0.1); /* 半透明橙色背景 */
+  --bxcolor: rgba(255, 165, 0, 0.5); /* 橙色光晕 */
+}
 
-Here are some ideas to get you started:
+</style>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+# **<center><font color="#4cddf0ff">Loch's Personal Homepage</font></center>**
+
+<div style="text-align:center">
+<div class="highlighted highlighted-pink">
+
+**<center><font color="#4cddf0ff" size="6">👋👋👋Welcome to my personal homepage!😊❤️❤️</font></center>**
+
+*<center><font size="4" color="#08fa29ff">Here you can find information about me, my projects, and my interests.</font></center>*
+
+<div style="text-align: center;">
+    <img src="./imgs/Hyacine.gif" alt="Hyacine">
+</div>
+</div>
+
+
+
+<div class="highlighted highlighted-blue">
+<div style="text-align:left">
+
+## About Me
+
+**I am a green hand and a passionate learner in the computer programming field. I enjoy exploring new technologies and improving my skills in all technical stacks.**
+
+**In recent stage I have been focusing on learning web development, Machine Learning and CG.**
+</div>
+</div>
+
+<div class="highlighted highlighted-orange">
+<div style="text-align:left">
+
+## Interests
+
+**In my free time, I enjoy exploring new technologies, and writing technical articles. I'm always eager to learn and grow as a developer.**
+</div>
+</div>
+
+<div class="highlighted highlighted-purple">
+<div style="text-align:left">
+
+## Contact
+
+**Feel free to reach out to me via [lochwc669@gmail.com](mailto:lochwc669@gmail.com).**
+
+</div>
+</div>
+</div>
+
+
+<div class="highlighted highlighted-green">
+<div style="text-align: center;">
+
+## My Tech Stack
+![](https://img.shields.io/badge/ML_Language-Python-27F5EB) ![](https://img.shields.io/badge/ML_Platform-Anaconda-27F5EB) ![](https://img.shields.io/badge/ML_Framework-Pytorch-27F5EB)
+
+![](https://img.shields.io/badge/Frontend_Language-JavaScript-2EED15) ![](https://img.shields.io/badge/Frontend-CSS-2EED15) ![](https://img.shields.io/badge/Frontend-HTML-2EED15) ![](https://img.shields.io/badge/Frontend_Framework-Vue.js-2EED15) ![](https://img.shields.io/badge/Framework-Node.js-2EED15) 
+
+![](https://img.shields.io/badge/Database-MySQL-ED15D7) ![](https://img.shields.io/badge/Database-PostgreSQL-ED15D7) 
+
+![](https://img.shields.io/badge/Backend_Language-Java-8515ED) ![](https://img.shields.io/badge/Backend_Framework-Springboot-8515ED) 
+
+![](https://img.shields.io/badge/CG_Framework-OpenGL-ED8815) ![](https://img.shields.io/badge/CG_Framework-Three.js-ED8815) 
+
+![](https://img.shields.io/badge/Language-C++-1527ED) ![](https://img.shields.io/badge/Language-C-1527ED) 
+
+</div>
+</div>
+
+<div class="highlighted highlighted-pink">
+<div style="text-align:center">
+
+## My GitHub Stats
+![stat](https://github-readme-stats.vercel.app/api?username=Atom112&show_icons=true&theme=radical)
+</div>
+</div>
+
+---
+
+**<center><font color="#7bf04cff" size="5">🙏🙏🙏Thank you for visiting my personal homepage!🙏🙏🙏</font></center>**
